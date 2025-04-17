@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.exe
+C:\Users\rjhel\source\repos\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.deps.json
+C:\Users\rjhel\source\repos\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.runtimeconfig.json
+C:\Users\rjhel\source\repos\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.dll
+C:\Users\rjhel\source\repos\FindPivotIndex\bin\Debug\net8.0\FindPivotIndex.pdb
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.dll
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\refint\FindPivotIndex.dll
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.pdb
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\FindPivotIndex.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\FindPivotIndex\obj\Debug\net8.0\ref\FindPivotIndex.dll

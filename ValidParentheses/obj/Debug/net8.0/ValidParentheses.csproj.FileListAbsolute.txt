@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\ValidParentheses\bin\Debug\net8.0\ValidParentheses.exe
+C:\Users\rjhel\source\repos\ValidParentheses\bin\Debug\net8.0\ValidParentheses.deps.json
+C:\Users\rjhel\source\repos\ValidParentheses\bin\Debug\net8.0\ValidParentheses.runtimeconfig.json
+C:\Users\rjhel\source\repos\ValidParentheses\bin\Debug\net8.0\ValidParentheses.dll
+C:\Users\rjhel\source\repos\ValidParentheses\bin\Debug\net8.0\ValidParentheses.pdb
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.dll
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\refint\ValidParentheses.dll
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.pdb
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\ValidParentheses\obj\Debug\net8.0\ref\ValidParentheses.dll

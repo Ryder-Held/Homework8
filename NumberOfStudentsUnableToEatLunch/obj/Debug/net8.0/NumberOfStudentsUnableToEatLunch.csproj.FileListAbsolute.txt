@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.exe
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.deps.json
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.runtimeconfig.json
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.dll
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\bin\Debug\net8.0\NumberOfStudentsUnableToEatLunch.pdb
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.dll
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\refint\NumberOfStudentsUnableToEatLunch.dll
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.pdb
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\NumberOfStudentsUnableToEatLunch.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\NumberOfStudentsUnableToEatLunch\obj\Debug\net8.0\ref\NumberOfStudentsUnableToEatLunch.dll

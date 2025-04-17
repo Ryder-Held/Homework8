@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\BaseballGame\bin\Debug\net8.0\BaseballGame.exe
+C:\Users\rjhel\source\repos\BaseballGame\bin\Debug\net8.0\BaseballGame.deps.json
+C:\Users\rjhel\source\repos\BaseballGame\bin\Debug\net8.0\BaseballGame.runtimeconfig.json
+C:\Users\rjhel\source\repos\BaseballGame\bin\Debug\net8.0\BaseballGame.dll
+C:\Users\rjhel\source\repos\BaseballGame\bin\Debug\net8.0\BaseballGame.pdb
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.dll
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\refint\BaseballGame.dll
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.pdb
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\BaseballGame.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\BaseballGame\obj\Debug\net8.0\ref\BaseballGame.dll
